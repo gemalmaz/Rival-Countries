@@ -9,9 +9,9 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/ss1.png" width="250" alt="Screenshot 1" />
-  <img src="screenshots/ss2.png" width="250" alt="Screenshot 2" />
-  <img src="screenshots/ss3.png" width="250" alt="Screenshot 3" />
+  <img src="https://i.hizliresim.com/o4sjvu6.png" width="250" alt="Screenshot 1" />
+  <img src="https://i.hizliresim.com/awure05.png" width="250" alt="Screenshot 2" />
+  <img src="https://i.hizliresim.com/lyhfult.png" width="250" alt="Screenshot 3" />
 </p>
 
 ---
