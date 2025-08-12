@@ -18,7 +18,6 @@
 
 ## 🎮 Features
 
-- 🏙 **City Management** – Build and upgrade your own cities.  
 - ⚔ **Combat System** – Participate in strategic battles.  
 - 💼 **Economy** – Establish companies and trade.  
 - 🗳 **Politics** – Run for elections and become president.  
